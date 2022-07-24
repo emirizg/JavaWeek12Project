@@ -3,3 +3,16 @@ Constructor: special method, It is a MUST fo class, it might be used initialize 
 has no return type
 
 Object: new ClassName() ----> we are invoking/calling constructor.
+
+Task 1:
+Employee:
+    attribute/fields/variables
+name, jobTitle, ID, salary
+
+    add a constructor to initialize all the fields
+    add a default constructor with no fields
+
+    toString() method will rint out the fields
+
+When do we need this. keyword?
+- when your parameter variable name is same with instance variable name
