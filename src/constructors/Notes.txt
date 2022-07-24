@@ -1,0 +1,5 @@
+
+Constructor: special method, It is a MUST fo class, it might be used initialize your fields
+has no return type
+
+Object: new ClassName() ----> we are invoking/calling constructor.
